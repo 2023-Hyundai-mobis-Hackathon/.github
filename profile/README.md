@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/85543502/220592208-24e35c96-109e-45ba-8185-e138ca345729.jpg">
 
 # Demo
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/XCahGoZmlJg)
+[![Video Label](https://user-images.githubusercontent.com/85543502/220599378-332489a4-455c-4c9e-b91f-2ce6f743c522.png)](https://youtu.be/XCahGoZmlJg)
 
 ## 구성
 - [도로 위험 요소 객체 인식(yolov5) ](https://github.com/2023-Hyundai-mobis-Hackathon/road-hazard-detection)
