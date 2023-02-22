@@ -5,11 +5,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 - 실시간 차량용 인포테인먼트를 통한 위험 요소 정보 전달과 위험 상황 예방
 - 웹 기반 위험 요소 모니터링 서버를 통한 신고와 해결 자동화
 - 감지부터 해결까지 End-to-End PBV를 통한 도로 유지 보수 시간과 비용 절감
@@ -27,7 +22,7 @@
 
 ## Contributor
 - 성균관대학교 17학번 송영보: 데이터셋 구축, 모델 성능 개선, 데이터 환산식 정의
-- 성균관대학교 20학번 김선우: 백엔드, 앱 개발
+- 성균관대학교 20학번 김선우: 데이터베이스 설계 및 서버 구축, 앱 개발
 - 성균관대학교 21학번 박채린: 데이터셋 구축, 웹 개발
 - 성균관대학교 21학번 신상윤: 데이터 전처리, 모델 학습
 - 성균관대학교 22학번 이승환: 데이터셋 구축, 모델 성능 개선, 선행 연구 자료 수집
