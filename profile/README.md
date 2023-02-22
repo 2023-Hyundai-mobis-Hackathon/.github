@@ -13,7 +13,8 @@
 - 실시간 차량용 인포테인먼트를 통한 위험 요소 정보 전달과 위험 상황 예방
 - 웹 기반 위험 요소 모니터링 서버를 통한 신고와 해결 자동화
 - 감지부터 해결까지 End-to-End PBV를 통한 도로 유지 보수 시간과 비용 절감
-<img src="https://user-images.githubusercontent.com/85543502/220592208-24e35c96-109e-45ba-8185-e138ca345729.jpg">
+<img src="https://user-images.githubusercontent.com/85543502/220603104-f6b97387-bccb-4f33-8ee2-c1633565b60c.PNG">
+<img src="">
 
 # Demo
 [![Video Label](https://user-images.githubusercontent.com/85543502/220599378-332489a4-455c-4c9e-b91f-2ce6f743c522.png)](https://youtu.be/XCahGoZmlJg)
